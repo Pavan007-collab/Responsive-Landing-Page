@@ -16,9 +16,5 @@ This is a simple responsive landing page built using HTML and CSS.
 
 ## How to View:
 
-Open `index.html` in your browser or use Live Server in VS Code to view the project.
 
----
-
-Feel free to customize it with your name or GitHub link!
-Let me know if you want to add **screenshots** or a **GitHub Pages live link**.
+Open index.html in your browser or use Live Server in VS Code to view the project.
