@@ -3,7 +3,7 @@
 
 This is a simple responsive landing page built using HTML and CSS.
 
-## 🚀 What We Did
+## What We Did:
 
 - Created `index.html` and `style.css` files.
 - Designed a clean layout with:
@@ -14,7 +14,7 @@ This is a simple responsive landing page built using HTML and CSS.
 - Made the hero section cover the **entire screen** without scrollbars.
 - Connected the project to a **GitHub repository** and pushed the code.
 
-## 🌐 How to View
+## How to View:
 
 Open `index.html` in your browser or use Live Server in VS Code to view the project.
 
