@@ -3,26 +3,26 @@ document.addEventListener('DOMContentLoaded', function() {
   const addBtn = document.getElementById('addBtn');
   const taskList = document.getElementById('taskList');
 
-  // Add task on button click or Enter key
+  
   function addTask() {
     const task = taskInput.value.trim();
     if (task === '') return;
 
-    // Create list item
+    
     const li = document.createElement('li');
     li.className = 'task-item';
 
-    // Task text
+    
     const span = document.createElement('span');
     span.className = 'task-text';
     span.textContent = task;
 
-    // Complete toggle
+    
     span.addEventListener('click', function() {
       li.classList.toggle('completed');
     });
 
-    // Remove button
+    
     const removeBtn = document.createElement('button');
     removeBtn.className = 'remove-btn';
     removeBtn.textContent = '×';
